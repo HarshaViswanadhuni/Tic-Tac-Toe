@@ -1,1 +1,1 @@
-# Tic-Tac-Toe
+This repository is for the game Tic Tac Toe
